@@ -1,0 +1,19 @@
+h1 {
+    font-family: 'Lobster', sans-serif;
+    color: goldenrod;
+    background-color: royalblue;
+}
+body {
+    background-color: lightblue;
+}
+#um {
+    font-size: medium;
+}
+.exemplo {
+    color: blue;
+    text-decoration: underline;
+}
+#dois {
+    font-family: 'Lobster', sans-serif;
+    font-size: 50px;
+}
